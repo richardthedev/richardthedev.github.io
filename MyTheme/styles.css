@@ -45,10 +45,6 @@ header .site-name {
     font-weight: bold;
 }
 
-nav {
-    margin-top: 20px;
-}
-
 nav li {
     display: inline-block;
     margin: 0 7px;
